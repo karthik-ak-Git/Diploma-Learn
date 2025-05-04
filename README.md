@@ -48,3 +48,4 @@ The *Programming Language Learning Academy* is a web-based platform designed to 
 - Displays a loading animation with a smooth transition to the homepage.
 
 ## Project Structure
+and the pdfs and images with video are the resources of the website 
